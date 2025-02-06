@@ -4,7 +4,7 @@
 
 ### [2월 첫째주, 1주차] : 네트워크 기본
 
-25.02.06 세부 주제 4 작성 (상세 내역 링크)
+25.02.06 패킷트레이서 보안 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/yuna-til/blob/306e10778f94cf60d2dc013ccb187a2db7b93876/Feb/2025-02-06.md))
 
 25.02.05 패킷트레이서 VLAN 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/yuna-til/blob/dd3e7450671d0cf7ac41eb753293c0c9792e5a72/Feb/2025-02-05.md))
 
