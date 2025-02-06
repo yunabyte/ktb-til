@@ -6,7 +6,7 @@
 
 25.02.06 세부 주제 4 작성 (상세 내역 링크)
 
-25.02.05 세부 주제 3 작성 (상세 내역 링크)
+25.02.05 패킷트레이서 VLAN 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/yuna-til/blob/dd3e7450671d0cf7ac41eb753293c0c9792e5a72/Feb/2025-02-05.md))
 
 25.02.04 패킷트레이서 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/yuna-til/blob/304e51d253a16f3c41f689fb9057416f777cad7d/Feb/2025-02-04.md))
 
