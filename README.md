@@ -3,6 +3,7 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [2월 첫째주, 1주차] : 네트워크 기본
+25.02.07 스위치 명령어 심화 및 네트워크 최적화 ([상세 내역 링크](https://github.com/100-hours-a-week/yuna-til/blob/4a39c0cfd2e658d5a7b01b1afa3db1acaf852394/Feb/2025-02-07.md))
 
 25.02.06 패킷트레이서 보안 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/yuna-til/blob/306e10778f94cf60d2dc013ccb187a2db7b93876/Feb/2025-02-06.md))
 
