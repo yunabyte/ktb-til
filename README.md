@@ -11,7 +11,7 @@
 
 25.02.11 
 
-25.02.10 Docker 기초 ([상세 내역 링크]([https://github.com/100-hours-a-week/yuna-til/blob/304e51d253a16f3c41f689fb9057416f777cad7d/Feb/2025-02-03.md](https://github.com/100-hours-a-week/yuna-til/blob/2376c76aba43ce85efc4f63440cf78193ea27361/Feb/2025-02-10.md))
+25.02.10 Docker 기초 ([상세 내역 링크](https://github.com/100-hours-a-week/yuna-til/blob/304e51d253a16f3c41f689fb9057416f777cad7d/Feb/2025-02-03.md](https://github.com/100-hours-a-week/yuna-til/blob/2376c76aba43ce85efc4f63440cf78193ea27361/Feb/2025-02-10.md))
 
 
 ### [2월 첫째주, 2주차] : 네트워크 기본
