@@ -9,7 +9,7 @@
 
 25.02.12 
 
-25.02.11 Docker Private Registry 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/yuna-til/blob/6ae1660b138254b66306c6003a0a0e543e9eafd9/Feb/2025-02-11.md))  
+25.02.11 Docker Private Registry 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/yuna-til/blob/a733961ed0764f6a01c3c46e87faf001ad86a287/Feb/2025-02-11.md))  
 
 25.02.10 Docker 기초 ([상세 내역 링크](https://github.com/100-hours-a-week/yuna-til/blob/304e51d253a16f3c41f689fb9057416f777cad7d/Feb/2025-02-03.md](https://github.com/100-hours-a-week/yuna-til/blob/2376c76aba43ce85efc4f63440cf78193ea27361/Feb/2025-02-10.md)))
 
