@@ -7,7 +7,7 @@
 
 25.02.13 
 
-25.02.12 
+25.02.12 Docker Private Registry 보안 설정 ([상세 내역 링크](https://github.com/100-hours-a-week/yuna-til/blob/301ce9bf5fb1d78aaa6b66cc53312bc5e4cdf883/Feb/2025-02-12.md))
 
 25.02.11 Docker Private Registry 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/yuna-til/blob/a733961ed0764f6a01c3c46e87faf001ad86a287/Feb/2025-02-11.md))  
 
