@@ -9,7 +9,7 @@
 
 25.02.19  
 
-25.02.18 
+25.02.18 쿠버네티스 개념 복습 ([상세 내역 링크](https://github.com/100-hours-a-week/yuna-til/blob/eb877501140665499ea47a086ac32e9231f3c680/Feb/2025-02-18.md))
 
 25.02.17 GitLab 활용 & 쿠버네티스 기초 ([상세 내역 링크](https://github.com/100-hours-a-week/yuna-til/blob/0e4da721377a1696b0d35b7264a802255ec92fa9/Feb/2025-02-17.md))
 
